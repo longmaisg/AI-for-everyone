@@ -1,2 +1,2 @@
-# AI-for-everyone
-AI for everyone
+Tri tue nhan tao cho moi nguoi 
+(AI for everyone)
